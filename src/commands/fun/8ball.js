@@ -1,6 +1,4 @@
-const Discord = require('discord.js');
-const { user } = require(`../..`)
-const client = new Discord.Client();
+const Discord = require('discord.js')
 
 
 module.exports = {
